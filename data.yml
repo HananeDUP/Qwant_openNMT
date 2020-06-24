@@ -1,0 +1,12 @@
+model_dir: run/
+
+data:
+  train_features_file: train_words_bitext.txt
+  train_labels_file: train_tags_bitext.txt
+  eval_features_file: valid_words_bitext.txt
+  eval_labels_file: valid_tags_bitext.txt
+  source_1_vocabulary: src-train-vocab.txt
+  source_2_vocabulary: src-train-tkt-vocab.txt
+  target_vocabulary: tgt-train-vocab.txt
+  source_tokenization: char_tokenization.yml
+  target_tokenization: char_tokenization.yml
