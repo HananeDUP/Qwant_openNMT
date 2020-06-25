@@ -1,12 +1,10 @@
-model_dir: run/
+model_dir: C:/Users/Hanane/Documents/Python_Scripts/TelecomParis/Qwant/TP/transformation_files/run/
 
 data:
-  train_features_file: train_words_bitext.txt
-  train_labels_file: train_tags_bitext.txt
-  eval_features_file: valid_words_bitext.txt
-  eval_labels_file: valid_tags_bitext.txt
-  source_1_vocabulary: src-train-vocab.txt
-  source_2_vocabulary: src-train-tkt-vocab.txt
-  target_vocabulary: tgt-train-vocab.txt
-  source_tokenization: char_tokenization.yml
-  target_tokenization: char_tokenization.yml
+  train_features_file: C:/Users/Hanane/Documents/Python_Scripts/TelecomParis/Qwant/TP/transformation_files/train_words_bitext.txt
+  train_labels_file: C:/Users/Hanane/Documents/Python_Scripts/TelecomParis/Qwant/TP/transformation_files/train_tags_bitext.txt
+  eval_features_file: C:/Users/Hanane/Documents/Python_Scripts/TelecomParis/Qwant/TP/transformation_files/valid_words_bitext.txt
+  eval_labels_file: C:/Users/Hanane/Documents/Python_Scripts/TelecomParis/Qwant/TP/transformation_files/valid_tags_bitext.txt
+  source_1_vocabulary: C:/Users/Hanane/Documents/Python_Scripts/TelecomParis/Qwant/TP/transformation_files/src-train-vocab.txt
+  source_2_vocabulary: C:/Users/Hanane/Documents/Python_Scripts/TelecomParis/Qwant/TP/transformation_files/src-train-tkt-vocab.txt
+  target_vocabulary: C:/Users/Hanane/Documents/Python_Scripts/TelecomParis/Qwant/TP/transformation_files/tgt-train-vocab.txt
