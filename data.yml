@@ -8,3 +8,7 @@ data:
   source_1_vocabulary: src-train-vocab.txt
   source_2_vocabulary: src-train-tkt-vocab.txt
   target_vocabulary: tgt-train-vocab.txt
+
+train:
+  max_step: 20000
+  save_summary_steps: 100
