@@ -1,4 +1,6 @@
 run_many_params_stopped/
 run_default_params_stopped/
-seq_tagger_updated.py
+run_googlecolab/
 model_run.py
+data_absolute_path.yml
+data_config.yml
