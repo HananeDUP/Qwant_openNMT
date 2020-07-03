@@ -1,2 +1,4 @@
 run_many_params_stopped/
 run_default_params_stopped/
+seq_tagger_updated.py
+model_run.py

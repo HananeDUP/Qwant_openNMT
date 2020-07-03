@@ -10,5 +10,5 @@ data:
   target_vocabulary: tgt-train-vocab.txt
 
 train:
-  max_step: 20000
+  max_step: 100000
   save_summary_steps: 100
