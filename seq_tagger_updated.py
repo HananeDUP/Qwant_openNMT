@@ -24,3 +24,4 @@ def model():
             residual_connections=False,
             cell_class=tf.keras.layers.LSTMCell),
         crf_decoding=True)
+

@@ -1,6 +1,11 @@
 run_many_params_stopped/
 run_default_params_stopped/
 run_googlecolab/
+run_07_Jul_2020/
+run/
+__pycache__/
+.ipynb_checkpoints/
+.idea/
 model_run.py
 data_absolute_path.yml
 data_config.yml

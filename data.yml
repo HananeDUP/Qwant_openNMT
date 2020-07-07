@@ -10,5 +10,9 @@ data:
   target_vocabulary: tgt-train-vocab.txt
 
 train:
-  max_step: 100000
+  max_step: 500
   save_summary_steps: 100
+
+eval:
+  external_evaluators: bleu
+  export_on_best: bleu
