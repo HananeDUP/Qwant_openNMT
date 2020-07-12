@@ -1,13 +1,13 @@
 model_dir: run/
 
 data:
-  train_features_file: train_words_bitext.txt
-  train_labels_file: train_tags_bitext.txt
-  eval_features_file: valid_words_bitext.txt
-  eval_labels_file: valid_tags_bitext.txt
-  source_1_vocabulary: src-train-vocab.txt
-  source_2_vocabulary: src-train-tkt-vocab.txt
-  target_vocabulary: tgt-train-vocab.txt
+  train_features_file: ./dataset/train_words_bitext.txt
+  train_labels_file: ./dataset/train_tags_bitext.txt
+  eval_features_file: ./dataset/valid_words_bitext.txt
+  eval_labels_file: ./dataset/valid_tags_bitext.txt
+  source_1_vocabulary: ./dataset/src-train-vocab.txt
+  source_2_vocabulary: ./dataset/src-train-tkt-vocab.txt
+  target_vocabulary: ./dataset/tgt-train-vocab.txt
 
 train:
   max_step: 200
