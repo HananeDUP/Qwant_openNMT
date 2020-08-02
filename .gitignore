@@ -1,7 +1,7 @@
 run_old/
-py_models/
-training_results/
-test_results/
+#py_models/
+#training_results/
+#test_results/
 #run/
 __pycache__/
 .ipynb_checkpoints/
@@ -9,3 +9,4 @@ __pycache__/
 model_run.py
 config/data_absolute_path.yml
 config/data_config.yml
+corpus_news/dataset/
