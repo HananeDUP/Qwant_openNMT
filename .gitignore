@@ -1,13 +1,11 @@
 en-pos-tagging/run_old/
 en-pos-tagging/config/data_absolute_path.yml
 en-pos-tagging/config/data_config.yml
-en-pos-tagging/dataset/raw/
-en-pos-tagging/run/
-en-pos-tagging/run_old/
-
+#en-pos-tagging/dataset/raw/
+#en-pos-tagging/run/
 fr-pos-tagging/config/data_absolute_path.yml
 fr-pos-tagging/config/data_config.yml
 fr-pos-tagging/dataset/raw/
-fr-pos-tagging/dataset/test/corpus_news_words_bitext_10000.txt
+#fr-pos-tagging/dataset/test/corpus_news_words_bitext_10000.txt
 fr-pos-tagging/run/
 fr-pos-tagging/run_old/
